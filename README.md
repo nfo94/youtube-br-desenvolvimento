@@ -6,11 +6,11 @@ Repositório responsável em listar Canais no Youtube sobre Desenvolvimento e Pr
 
 ## Contribuições 📌
 
-Pedimos, por favor, que dêem uma olhada nas **[Diretrizes de Contribuição](https://github.com/carolcodes/youtube-br-desenvolvimento/blob/master/CONTRIBUTING.md)** antes. E desde já, agredecemos a todos os contribuidores! Vocês são demais! ❤️❤️
+Pedimos, por favor, que deem uma olhada nas **[Diretrizes de Contribuição](https://github.com/carolcodes/youtube-br-desenvolvimento/blob/master/CONTRIBUTING.md)** antes. E desde já agredecemos a todos os contribuidores! Vocês são demais! ❤️❤️
 
 ## Conteúdos 🔥
 
-Procuramos ordenar os conteúdos e criar uma navegação amigável, visando facilitar a busca por conteúdos e temas. Bastam clicar em algum conteúdo que te interesse, e vòilá! 
+Procuramos ordenar os conteúdos e criar uma navegação amigável, visando facilitar a busca por conteúdos e temas. Basta clicar em algum conteúdo que te interesse e vòilá! 
 
 - [Awesome Canais Desenvolvimento & Programação em Português](#youtube-br-desenvolvimento)
 	- [Linguagens de Programação](conteudos/linguagens-de-programacao.md)
@@ -31,9 +31,9 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 	- [Podcasts](conteudos/podcasts.md)
 	- [Entrevistas, Webinars & Dicas](conteudos/entrevistas-webinars-e-dicas.md)
 
-## Quer Propor Melhorias na Lista? Façam Pull Request!!! 🌟 🌟
+## Quer Propor Melhorias na Lista? Faça um Pull Request!!! 🌟 🌟
 
-Caso desejem propor melhorias nessa lista, abrem uma **[ISSUE](https://github.com/carolcodes/youtube-br-desenvolvimento/issues)** nesse repositório. Assim, todos poderão colaborar para o melhor desenvolvimento desse repositório. E sintam-se à vontade em fazer Pull Requests!!
+Caso desejem propor melhorias nessa lista, abram uma **[ISSUE](https://github.com/carolcodes/youtube-br-desenvolvimento/issues)** nesse repositório. Assim todos poderão colaborar para o melhor desenvolvimento desse repositório. E sintam-se à vontade em fazer Pull Requests!!
 
 Bons estudos a todos! ❤️❤️❤️
 
